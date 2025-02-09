@@ -1,2 +1,4 @@
 
 *.lnk
+.content/health_kit-cstrike-beer_crate/sound/sound.cache
+*.cache
